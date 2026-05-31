@@ -153,5 +153,5 @@ EfficientNet-B0'ın son konvolüsyon katmanı (`model.features[-1][0]`) hedef al
 ##  Geliştiriciler
 
 **Mehmet Kalbişen** — 032390011  
-**Emrecan Kutlu** — 032390027
+**Emrecan Kutlu** — 032390027   
 **Efe Tutucu** — 032390034
